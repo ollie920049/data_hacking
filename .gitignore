@@ -37,3 +37,5 @@ nosetests.xml
 
 # iPython Notebook temp dirs
 .ipynb_checkpoints
+
+*.model
